@@ -10,5 +10,5 @@ download the files and open them in the desired browser.
 
 ## Screenshot Example:
 
-![alt text](/img/landPage)
-![alt text](/img/profilePage)
+![alt text](https://raw.githubusercontent.com/ricardocolin/Classmeets-Front-End/master/img/landPage.png)
+![alt text](https://raw.githubusercontent.com/ricardocolin/Classmeets-Front-End/master/img/profilePage.png)
